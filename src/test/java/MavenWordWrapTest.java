@@ -7,6 +7,8 @@ class MavenWordWrapTest {
     String gettysburgAddress = "Four score and seven years ago our fathers brought forth upon this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal";
     String riddle = "The quick brown fox jumped over the candle";
     String mice = "Many mumbling mice are making their music in the moonlight mighty nice, many mumbling mice";
+    String grandmasHouse = "Over the river and through the woods to grandmother's house we go!";
+    String twinkleStar = "Twinkle, twinkle, little star, how I wonder what you are! Up above the world so high, like a diamond in the sky.";
 
     @BeforeEach
     void setUp() {
@@ -42,5 +44,19 @@ class MavenWordWrapTest {
         String expected ="Many mumbling" + "\n" + "mice are" + "\n" + "making their" + "\n" + "music in the" + "\n" + "moonlight" +
                 "\n" + "mighty nice," + "\n" + "many mumbling" + "\n" + "mice";
         Assertions.assertEquals(expected, mavenWordWrapTest.mavenWordsWrapped(mice));
+    }
+
+    @Test
+    void apacheCommonsWrap5() {
+        String expected ="Over the" + "\n" + "river and" + "\n" + "through the" + "\n" + "woods to" + "\n" + "grandmother's" +
+                "\n" + "house we go!";
+        Assertions.assertEquals(expected, mavenWordWrapTest.mavenWordsWrapped(grandmasHouse));
+    }
+
+    @Test
+    void apacheCommonsWrap6() {
+        String expected = "Twinkle," + "\n" + "twinkle," + "\n" + "little star," + "\n" + "how I wonder" + "\n" + "what you are!" +
+                "\n" + "Up above the" + "\n" + "world so" + "\n" + "high, like a" + "\n" + "diamond in" + "\n" + "the sky." ;
+        Assertions.assertEquals(expected, mavenWordWrapTest.mavenWordsWrapped(twinkleStar));
     }
 }

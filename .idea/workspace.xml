@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03255825-0d21-4ed0-9380-7cbfd1135fee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComcastCodingChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MavenWordWrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ComcastCodingChallenge.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MavenWordWrap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/ComcastCodingChallenge.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +34,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1ehsDBWunweGVwxGuO2fuKFgqxr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,52 +69,50 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FullWordsOnLinesTest.returnLines2">
-    <configuration name="ApacheCommonsWordWrapTest.apacheCommonsWrap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FullWordsOnLinesTest.returnLines">
+    <configuration name="ApacheCommonsWordWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
-      <option name="METHOD_NAME" value="apacheCommonsWrap" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApacheCommonsWordWrapTest.wordWrapped5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
+      <option name="METHOD_NAME" value="wordWrapped5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApacheCommonsWordWrapTest.apacheCommonsWrap3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ComcastCodingChallenge" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
-      <option name="METHOD_NAME" value="apacheCommonsWrap3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApacheCommonsWordWrapTest.wordWrapped2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ComcastCodingChallenge" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
-      <option name="METHOD_NAME" value="wordWrapped2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FullWordsOnLinesTest.returnLines2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FullWordsOnLinesTest.returnLines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FullWordsOnLinesTest" />
-      <option name="METHOD_NAME" value="returnLines2" />
+      <option name="METHOD_NAME" value="returnLines" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MavenWordWrapTest.apacheCommonsWrap4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MavenWordWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MavenWordWrapTest" />
-      <option name="METHOD_NAME" value="apacheCommonsWrap4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MavenWordWrapTest.apacheCommonsWrap6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MavenWordWrapTest" />
+      <option name="METHOD_NAME" value="apacheCommonsWrap6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FullWordsOnLinesTest.returnLines2" />
-        <item itemvalue="JUnit.MavenWordWrapTest.apacheCommonsWrap4" />
-        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.apacheCommonsWrap3" />
-        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.wordWrapped2" />
-        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.apacheCommonsWrap" />
+        <item itemvalue="JUnit.FullWordsOnLinesTest.returnLines" />
+        <item itemvalue="JUnit.ApacheCommonsWordWrapTest" />
+        <item itemvalue="JUnit.MavenWordWrapTest" />
+        <item itemvalue="JUnit.MavenWordWrapTest.apacheCommonsWrap6" />
+        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.wordWrapped5" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +137,7 @@
       <updated>1594785036178</updated>
       <workItem from="1594785040758" duration="1126000" />
       <workItem from="1594786363817" duration="5999000" />
-      <workItem from="1594819558946" duration="738000" />
+      <workItem from="1594819558946" duration="10988000" />
     </task>
     <servers />
   </component>
@@ -154,42 +149,59 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594786899850" />
-    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594789367953">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-131" y="-937" width="1639" height="755" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594826102215">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594789367953" />
+    <state x="-131" y="-937" width="1639" height="755" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594826102215" />
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822659430" />
     <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594790139225">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
     <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790139225" />
-    <state width="1877" height="176" key="GridCell.Tab.0.bottom" timestamp="1594792480432">
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1594833480884">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480432" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971845" />
-    <state width="1877" height="176" key="GridCell.Tab.0.center" timestamp="1594792480431">
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480884" />
+    <state width="1306" height="106" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644209" />
+    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1594833480883">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971844" />
-    <state width="1877" height="176" key="GridCell.Tab.0.left" timestamp="1594792480431">
+    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480883" />
+    <state width="1306" height="106" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644207" />
+    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1594833480883">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971844" />
-    <state width="1877" height="176" key="GridCell.Tab.0.right" timestamp="1594792480431">
+    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480883" />
+    <state width="1306" height="106" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644206" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1594833480884">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971845" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480884" />
+    <state width="1306" height="106" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644208" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1594832438329">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1594832438329">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1594832438329">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1594832438329">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1594788315486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788315486" />
-    <state x="-13" y="-1080" key="SettingsEditor" timestamp="1594791090023">
+    <state x="-13" y="-1080" key="SettingsEditor" timestamp="1594824193032">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="-13" y="-1080" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594791090023" />
+    <state x="-13" y="-1080" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594824193032" />
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788884080" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594786445297">
       <screen x="0" y="0" width="1366" height="728" />
@@ -200,5 +212,31 @@
     </state>
     <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790756228" />
     <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788741490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

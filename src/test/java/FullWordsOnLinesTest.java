@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class FullWordsOnLinesTest {
     private FullWordsOnLines fullWordsOnLinesTest;
     String gettysburgAddress = "Four score and seven years ago our fathers brought forth upon this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal";
-    String riddle = "The quick brown fox jumped over the candle";
+    String riddle = "The quick brown fox jumped over the candle quickly";
     String mice = "Many mumbling mice are making their music in the moonlight mighty nice, many mumbling mice";
 
     @BeforeEach
@@ -17,7 +17,7 @@ class FullWordsOnLinesTest {
 
     @Test
     void returnLines() {
-        String expected = fullWordsOnLinesTest.returnFullWordLines(gettysburgAddress);
+        String expected = fullWordsOnLinesTest.returnFullWordLines(riddle);
         Assertions.assertEquals(expected, "");
     }
 
