@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03255825-0d21-4ed0-9380-7cbfd1135fee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComcastCodingChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MavenWordWrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ComcastCodingChallenge.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MavenWordWrap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/ComcastCodingChallenge.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ehsDBWunweGVwxGuO2fuKFgqxr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FullWordsOnLinesTest.returnLines2">
+    <configuration name="ApacheCommonsWordWrapTest.apacheCommonsWrap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
+      <option name="METHOD_NAME" value="apacheCommonsWrap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApacheCommonsWordWrapTest.apacheCommonsWrap3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
+      <option name="METHOD_NAME" value="apacheCommonsWrap3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApacheCommonsWordWrapTest.wordWrapped2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
+      <option name="METHOD_NAME" value="wordWrapped2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FullWordsOnLinesTest.returnLines2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FullWordsOnLinesTest" />
+      <option name="METHOD_NAME" value="returnLines2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MavenWordWrapTest.apacheCommonsWrap4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComcastCodingChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MavenWordWrapTest" />
+      <option name="METHOD_NAME" value="apacheCommonsWrap4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FullWordsOnLinesTest.returnLines2" />
+        <item itemvalue="JUnit.MavenWordWrapTest.apacheCommonsWrap4" />
+        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.apacheCommonsWrap3" />
+        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.wordWrapped2" />
+        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.apacheCommonsWrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03255825-0d21-4ed0-9380-7cbfd1135fee" name="Default Changelist" comment="" />
+      <created>1594785036178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594785036178</updated>
+      <workItem from="1594785040758" duration="1126000" />
+      <workItem from="1594786363817" duration="5999000" />
+      <workItem from="1594819558946" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594786899850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594786899850" />
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594789367953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594789367953" />
+    <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594790139225">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790139225" />
+    <state width="1877" height="176" key="GridCell.Tab.0.bottom" timestamp="1594792480432">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480432" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971845" />
+    <state width="1877" height="176" key="GridCell.Tab.0.center" timestamp="1594792480431">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971844" />
+    <state width="1877" height="176" key="GridCell.Tab.0.left" timestamp="1594792480431">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971844" />
+    <state width="1877" height="176" key="GridCell.Tab.0.right" timestamp="1594792480431">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594792480431" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788971845" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1594788315486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788315486" />
+    <state x="-13" y="-1080" key="SettingsEditor" timestamp="1594791090023">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-13" y="-1080" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594791090023" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788884080" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594786445297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594786445296" />
+    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594790756228">
+      <screen x="-272" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790756228" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788741490" />
+  </component>
+</project>
