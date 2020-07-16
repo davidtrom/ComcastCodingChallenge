@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.ListIterator;
 
-public class FullWordsLineWrap {
+public class WrapCharIterator {
     private StringBuilder result = new StringBuilder();
     private StringBuilder section = new StringBuilder();
     private StringBuilder lineSection = new StringBuilder();
@@ -10,14 +10,16 @@ public class FullWordsLineWrap {
 
     public String wrapFullWords(String str) {
         String[] stringCharacters = str.split("");
-        String[] stringWords = str.split(" ");
         ArrayList<String> strList = new ArrayList<String>(Arrays.asList(stringCharacters));
         ListIterator<String> strListIterator = strList.listIterator();
-//        for (String letter : stringCharacters){
-//        System.out.println(letter);
-//        }
+
         while (strListIterator.hasNext()) {
-            section.append(strListIterator.next());
+            if(section.length() < 13) {
+                section.append(strListIterator.next());
+                if(section.length() == 13 && !strListIterator.next().equals(" ") && !strListIterator.previous().equals("  ")){
+                    String onlyFullWords = section.substring(0,section.lastIndexOf(" "));
+                }
+            }
             counter++;
             if (counter == 14 && section.charAt(13) == ' ') {
                 result = section;

@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.ListIterator;
 
-public class NewTry {
+public class WrapWordIterator {
     //private StringBuilder result = new StringBuilder();
-    private String result = "";
+    private StringBuilder result = new StringBuilder();
     private StringBuilder section = new StringBuilder();
     private StringBuilder lineSection = new StringBuilder();
     private Integer counter = 0;
@@ -21,40 +21,29 @@ public class NewTry {
         ListIterator<String> wordsListIterator = wordsList.listIterator();
 
         while(wordsListIterator.hasNext()) {
+            int nextWordLength = wordsListIterator.next().length();
+        }
             System.out.println(section);
             if (wordsListIterator.nextIndex() == wordsList.size() -1) {
-                //section.append()
+                result.append(wordsList);
                 System.out.println("done");
             }
-//            while (section.append(wordsListIterator.next()).length() - 1 <= 13) {
-                if (section.append(wordsListIterator.next()).length() - 1 < 13) {
+            while(section.length() + wordsListIterator.next().length() -1 < 13){
+                result.append(wordsListIterator.next());
+            }
+            while (section.append(wordsListIterator.next()).length() - 1 <= 13) {
+//                if (section.append(wordsListIterator.next()).length() - 1 < 13) {
                     section.append(wordsListIterator.next());
-                } else if (section.append(wordsListIterator.next()).length() - 1 == 13){
+                    counter = counter + wordsListIterator.next().length();
+//                }
+            if (section.append(wordsListIterator.next()).length() - 1 == 13){
                     String withoutSpace = section.substring(0, section.length() - 2);
-                    section.append(withoutSpace);
+                    section.append(withoutSpace).append("\n");
                     section.setLength(0);
                 }
             }
 //        }
 
-
-//            else if (section.append(wordsListIterator.next()).length() - 1 < 13) {
-//                section.append(wordsListIterator.next());
-//                result = section.toString();
-//            }
-//            else if (section.append(wordsListIterator.next()).length() - 1 == 13) {
-//                    String withoutSpace = section.substring(0, section.length() - 2);
-//                    section.append(withoutSpace);
-//                    System.out.println("section in if " + section);
-//                    result = section.toString();
-//                    section.setLength(0);
-//            }
-//            else if (section.append(wordsListIterator.next()).length() - 1 > 13) {
-//                section.setLength(0);
-//                section.append(wordsListIterator.next());
-//            }
-//                //result = section.toString();
-//            }
 
 
 
