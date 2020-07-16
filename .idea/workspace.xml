@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03255825-0d21-4ed0-9380-7cbfd1135fee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewTryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FullWordsLineWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FullWordsLineWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FullWordsLineWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FullWordsLineWrapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FullWordsOnLinesTest.returnLines">
+  <component name="RunManager" selected="JUnit.NewTryTest.wrapFullWords">
     <configuration name="ApacheCommonsWordWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,11 +73,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApacheCommonsWordWrapTest.wordWrapped5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FullWordsLineWrapTest.wrapFullWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ApacheCommonsWordWrapTest" />
-      <option name="METHOD_NAME" value="wordWrapped5" />
+      <option name="MAIN_CLASS_NAME" value="FullWordsLineWrapTest" />
+      <option name="METHOD_NAME" value="wrapFullWords" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +102,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MavenWordWrapTest.apacheCommonsWrap6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewTryTest.wrapFullWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComcastCodingChallenge" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MavenWordWrapTest" />
-      <option name="METHOD_NAME" value="apacheCommonsWrap6" />
+      <option name="MAIN_CLASS_NAME" value="NewTryTest" />
+      <option name="METHOD_NAME" value="wrapFullWords" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewTryTest.wrapFullWords" />
+        <item itemvalue="JUnit.FullWordsLineWrapTest.wrapFullWords" />
         <item itemvalue="JUnit.FullWordsOnLinesTest.returnLines" />
         <item itemvalue="JUnit.ApacheCommonsWordWrapTest" />
         <item itemvalue="JUnit.MavenWordWrapTest" />
-        <item itemvalue="JUnit.MavenWordWrapTest.apacheCommonsWrap6" />
-        <item itemvalue="JUnit.ApacheCommonsWordWrapTest.wordWrapped5" />
       </list>
     </recent_temporary>
   </component>
@@ -147,59 +152,59 @@
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
     <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790139225" />
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1594860379637">
+    <state width="1877" height="403" key="GridCell.Tab.0.bottom" timestamp="1594921693079">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379637" />
+    <state width="1877" height="403" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594921693079" />
     <state width="1306" height="106" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644209" />
-    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1594860379636">
+    <state width="1877" height="403" key="GridCell.Tab.0.center" timestamp="1594921693078">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
+    <state width="1877" height="403" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594921693078" />
     <state width="1306" height="106" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644207" />
-    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1594860379636">
+    <state width="1877" height="403" key="GridCell.Tab.0.left" timestamp="1594921693078">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
+    <state width="1877" height="403" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594921693078" />
     <state width="1306" height="106" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644206" />
-    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1594860379636">
+    <state width="1877" height="403" key="GridCell.Tab.0.right" timestamp="1594921693078">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
+    <state width="1877" height="403" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594921693078" />
     <state width="1306" height="106" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644208" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1594832438329">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1594920411129">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1594832438329">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594920411129" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1594920411128">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1594832438329">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594920411128" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1594920411128">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1594832438329">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594920411128" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1594920411129">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594832438329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594920411129" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1594788315486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788315486" />
-    <state x="-13" y="-1080" key="SettingsEditor" timestamp="1594824193032">
+    <state x="-13" y="-1080" key="SettingsEditor" timestamp="1594913816596">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="-13" y="-1080" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594824193032" />
+    <state x="-13" y="-1080" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594913816596" />
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788884080" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594786445297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594786445296" />
-    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594790756228">
+    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594915916571">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790756228" />
+    <state x="366" y="-984" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594915916571" />
     <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594788741490" />
   </component>
   <component name="XDebuggerManager">
