@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="03255825-0d21-4ed0-9380-7cbfd1135fee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApacheCommonsWordWrap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FullWordsOnLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApacheCommonsWordWrapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FullWordsOnLinesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MavenWordWrapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApacheCommonsWordWrap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApacheCommonsWordWrapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FullWordsOnLinesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MavenWordWrapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FullWordsOnLines.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +128,7 @@
       <updated>1594785036178</updated>
       <workItem from="1594785040758" duration="1126000" />
       <workItem from="1594786363817" duration="5999000" />
-      <workItem from="1594819558946" duration="10988000" />
+      <workItem from="1594819558946" duration="13873000" />
     </task>
     <servers />
   </component>
@@ -158,25 +149,25 @@
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
     <state x="-82" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594790139225" />
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1594833480884">
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1594860379637">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480884" />
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379637" />
     <state width="1306" height="106" key="GridCell.Tab.0.bottom/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644209" />
-    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1594833480883">
+    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1594860379636">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480883" />
+    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
     <state width="1306" height="106" key="GridCell.Tab.0.center/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644207" />
-    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1594833480883">
+    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1594860379636">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480883" />
+    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
     <state width="1306" height="106" key="GridCell.Tab.0.left/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644206" />
-    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1594833480884">
+    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1594860379636">
       <screen x="-272" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594833480884" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@-272.-1080.1920.1040" timestamp="1594860379636" />
     <state width="1306" height="106" key="GridCell.Tab.0.right/0.0.1366.728/-272.-1080.1920.1040@0.0.1366.728" timestamp="1594822644208" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1594832438329">
       <screen x="-272" y="-1080" width="1920" height="1040" />
@@ -218,22 +209,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
-          <line>12</line>
+          <line>13</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
-          <line>20</line>
+          <line>22</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/FullWordsOnLines.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
