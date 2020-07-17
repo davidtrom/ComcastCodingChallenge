@@ -15,7 +15,23 @@ class WrapCharIteratorTest {
 
     @Test
     void wrapFullWords() {
-        String expected ="The quick" + "\n" + "brown fox" + "\n" + "jumped over" + "\n" + "the candle";
+        String expected ="The quick" + "\n" + "brown fox" + "\n" + "jumped over" + "\n" + "the candle" + "\n" + "quickly";
         Assertions.assertEquals(expected, wrapCharIteratorTest.wrapFullWords(riddle));
+    }
+
+    @Test
+    void wordWrapped2() {
+        String expected ="Four score" + "\n" + "and seven" + "\n" + "years ago our" + "\n" + "fathers" + "\n" + "brought" +
+                "\n" + "forth upon" + "\n" + "this" + "\n" + "continent a" + "\n" + "new nation," + "\n" + "conceived in" + "\n" +
+                "liberty and" + "\n" + "dedicated to" + "\n" + "the" + "\n" + "proposition" + "\n" + "that all men" + "\n" + "are created" +
+                "\n" + "equal";
+        Assertions.assertNotEquals(expected, wrapCharIteratorTest.wrapFullWords(gettysburgAddress));
+    }
+
+    @Test
+    void apacheCommonsWrap3() {
+        String expected ="Many mumbling" + "\n" + "mice are" + "\n" + "making their" + "\n" + "music in the" + "\n" + "moonlight" +
+                "\n" + "mighty nice," + "\n" + "many mumbling" + "\n" + "mice";
+        Assertions.assertEquals(expected, wrapCharIteratorTest.wrapFullWords(mice));
     }
 }
